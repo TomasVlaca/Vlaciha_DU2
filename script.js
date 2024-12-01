@@ -27,3 +27,4 @@ console.log(justFood(50));
 console.log(createEvent("Inaugurace prezidenta", 100, flavourHaven));
 
 console.log(createEvent("Rodinná oslava", 20, yourMama));
+//
